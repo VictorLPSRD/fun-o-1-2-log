@@ -8,12 +8,13 @@ Este é um projeto em Java que fornece uma calculadora para resolver **equaçõe
 - **Equação do Segundo Grau**: Resolver equações quadráticas do tipo `ax² + bx + c = 0`, utilizando a fórmula quadrática (Fórmula de Bhaskara).
 - **Cálculo de Logaritmos**: Calcular o logaritmo de um número em uma base específica.
 
-## Como Executar
+## 🧩 Pré-requisitos
 
-Para executar o projeto, é necessário ter o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) instalado. Siga os passos abaixo para rodar a aplicação.
+- **Java JDK 8 ou superior.**
+- Biblioteca padrão do Java para criptografia e codificação Base64.
 
-### Passo 1: Clone o repositório
+## 🚀 Como Executar
 
-```bash
-git clone https://github.com/seu-usuario/calculadora-equacoes-logaritmos-java.git
-cd calculadora-equacoes-logaritmos-java
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-criptografia.git
